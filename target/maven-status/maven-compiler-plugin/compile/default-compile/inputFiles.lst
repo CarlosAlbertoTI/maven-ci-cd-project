@@ -1,0 +1,9 @@
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/inventory/HashMapInventory.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/exceptions/OutOfStock.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/inventory/exceptions/ItemAlreadyAdded.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/inventory/Item.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/inventory/Inventory.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/inventory/exceptions/ItemNotFound.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/exceptions/InvalidSelection.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/VendingMachine.java
+/Users/carlosjunior/Downloads/VMSys/src/main/java/br/ufc/tpii/vmsys/exceptions/InsufficientFunds.java
